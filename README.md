@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 Currently learning advanced Go and Kubernetes<br>🎯 Goals: Master scalable architecture design<br>🎲 Fun fact: I love retro games and solving Rubik's cubes!</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 Currently learning advanced Go and Kubernetes<br>🎯 Goals: Master scalable architecture design<br>💼 Full Stack Developer at Bolt 360 since 2021</p>
 
 ###
 
@@ -56,4 +56,20 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LucasZerino&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph
+  <img src="https://streak-stats.demolab.com?user=LucasZerino&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+###
+
+<h2 align="left">🌐 Connect with Me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucas-zerino-759a81231/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:lucaszerino@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail logo" />
+  </a>
+</div>
