@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 Currently learning advanced Go and Kubernetes<br>🎯 Goals: Master scalable architecture design<br>💼 Full Stack Developer at Bolt 360 since 2021</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 Currently learning advanced Go and Docker<br>🎯 Goals: Master scalable architecture design<br>💼 Full Stack Developer at Bolt 360 since 2021</p>
 
 ###
 
@@ -26,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
